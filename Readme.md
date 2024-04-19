@@ -8,7 +8,7 @@ PerformanceTracker is a Django application designed to track performance metrics
 
 1. Clone the repository to your local machine:
 
-    git clone <repository_url>
+    git clone <https://github.com/RajeshChoudharytech/performance_tracking.git>
 
 2. Navigate to the project directory:
 
